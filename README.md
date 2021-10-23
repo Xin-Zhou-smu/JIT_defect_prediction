@@ -1,1 +1,1 @@
-# JIT_defect_prediction
+# SimCom
